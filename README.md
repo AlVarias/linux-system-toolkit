@@ -1,5 +1,7 @@
 # linux-system-toolkit
 This repository contains a collection of scripts used to manage and monitor enterprise Linux environments (RHEL/Ubuntu).
+
+
 Category: Security & Hardening
 -user_audit.sh: A script that lists all users with sudo privileges, checks for accounts with empty passwords, and identifies users who haven't logged in for 90+ days.
 
